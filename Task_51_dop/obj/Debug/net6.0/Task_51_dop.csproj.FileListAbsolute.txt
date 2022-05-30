@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\bin\Debug\net6.0\Task_51_dop.exe
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\bin\Debug\net6.0\Task_51_dop.deps.json
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\bin\Debug\net6.0\Task_51_dop.runtimeconfig.json
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\bin\Debug\net6.0\Task_51_dop.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\bin\Debug\net6.0\Task_51_dop.pdb
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.AssemblyInfo.cs
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\refint\Task_51_dop.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.pdb
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\Task_51_dop.genruntimeconfig.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_51_dop\obj\Debug\net6.0\ref\Task_51_dop.dll
