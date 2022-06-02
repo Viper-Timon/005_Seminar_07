@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\bin\Debug\net6.0\Task_47_HW.exe
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\bin\Debug\net6.0\Task_47_HW.deps.json
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\bin\Debug\net6.0\Task_47_HW.runtimeconfig.json
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\bin\Debug\net6.0\Task_47_HW.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\bin\Debug\net6.0\Task_47_HW.pdb
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.AssemblyInfo.cs
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\refint\Task_47_HW.dll
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.pdb
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\Task_47_HW.genruntimeconfig.cache
+C:\Users\HP\Desktop\GB\005 - Знакомство с C#\007 - Seminar 2022 05 30\Task_47_HW\obj\Debug\net6.0\ref\Task_47_HW.dll
